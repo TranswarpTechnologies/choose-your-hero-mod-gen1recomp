@@ -1,4 +1,4 @@
-# female-mod-for-gen1-recomp
+# Female Replacement Mod (Gen1Recomp)
 A mod for use with Gen1Recomp to replace the protagonist and rival sprite with female counterparts.
 
 I was inspired to make this mod in order to play through the Yellow Version according to my own Kanto headcanon, where Green (Leaf in Gen 3) is the heroine of the Kanto story alongside Red. 
