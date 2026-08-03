@@ -27,7 +27,7 @@ https://www.deviantart.com/ghost-missingno/art/Blue-Sprites-for-R-G-B-Y-33979601
 Yellow (Rival) Sprites created by GameFreak, restored by Madame Frog/Hatun, preserved by Ghost-MissingNo
 https://www.deviantart.com/ghost-missingno/art/Beta-Crystal-Sprites-for-G-S-C-564595350
 
-Player Battle Sprite, Overworld Sprite, and Rival Overworld Sprite inspired by Leaf Avatar Mod by MrKrisSatan
+Player Battle Sprite, Overworld Sprite, and Rival Overworld Sprite replacement code inspired by Leaf Avatar Mod by MrKrisSatan
 https://github.com/MrKrisSatan/Leaf
 
 Rival Battle Sprite Replacement Code inspired by Who's That Trainer Mod by MyFriendPKMN
