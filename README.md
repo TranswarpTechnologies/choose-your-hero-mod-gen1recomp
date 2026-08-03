@@ -28,8 +28,7 @@ Yellow (Rival) Sprites created by GameFreak, restored by Madame Frog/Hatun, pres
 https://www.deviantart.com/ghost-missingno/art/Beta-Crystal-Sprites-for-G-S-C-564595350
 
 Player Battle Sprite, Overworld Sprite, and Rival Overworld Sprite replacement code inspired by Leaf Avatar Mod by MrKrisSatan
-https://github.com/MrKrisSatan/Leaf
+<br>https://github.com/MrKrisSatan/Leaf
 
 Rival Battle Sprite Replacement Code inspired by Who's That Trainer Mod by MyFriendPKMN
-
-https://github.com/MyFriendPKMN/whos-that-trainer/tree/main
+<br>https://github.com/MyFriendPKMN/whos-that-trainer/tree/main
