@@ -21,6 +21,7 @@ The sprites for Green are fan-made sprites that I found for Green in the Gen 1 s
 
 
 
+
 ### Credits:
 Green (Protagonist) Sprite created by Madame Frog/Hatun, preserved by Ghost-MissingNo
 https://www.deviantart.com/ghost-missingno/art/Blue-Sprites-for-R-G-B-Y-339796017
