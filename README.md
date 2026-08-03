@@ -31,4 +31,5 @@ Player Battle Sprite, Overworld Sprite, and Rival Overworld Sprite replacement c
 https://github.com/MrKrisSatan/Leaf
 
 Rival Battle Sprite Replacement Code inspired by Who's That Trainer Mod by MyFriendPKMN
+
 https://github.com/MyFriendPKMN/whos-that-trainer/tree/main
