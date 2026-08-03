@@ -5,7 +5,7 @@ After Oak's intro, the player will be given the choice between playing as Red (m
 After naming the protagonist, the player will be given the choice between Blue (male rival) or Yellow (female rival). After naming the rival, the game proceeds as normal.
 You do not have to choose Green in order to have Yellow as your rival. They are separate choices.
 
-If the player chooses Green, Yellow, or both, the overworld and battle sprites will be changed accordingly.
+If the player chooses Green, Yellow, or both, the overworld and battle sprites will be changed accordingly:
 
 <img width="295" height="253" alt="green_intro" src="https://github.com/user-attachments/assets/0a888292-4949-4278-bdc8-aff12e78b00c" />
 <img width="295" height="253" alt="yellow_intro" src="https://github.com/user-attachments/assets/1e2905f5-3dfd-44cc-8a45-30f901947713" />
