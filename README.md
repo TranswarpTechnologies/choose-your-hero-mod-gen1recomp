@@ -1,5 +1,6 @@
 # Choose Your Hero Mod (Gen1Recomp)
 A mod for use with Gen1Recomp to give the player the choice to replace the protagonist and rival sprite with female counterparts.
+Compatible with the Voxel Rendering mod.
 
 After Oak's intro, the player will be given the choice between playing as Red (male protagonist) or Green (female protagonist). 
 After naming the protagonist, the player will be given the choice between Blue (male rival) or Yellow (female rival). After naming the rival, the game proceeds as normal.
