@@ -10,6 +10,7 @@ If the player chooses Green, Yellow, or both, the overworld and battle sprites w
 <img width="295" height="253" alt="green_intro" src="https://github.com/user-attachments/assets/0a888292-4949-4278-bdc8-aff12e78b00c" />
 <img width="295" height="253" alt="yellow_intro" src="https://github.com/user-attachments/assets/1e2905f5-3dfd-44cc-8a45-30f901947713" />
 
+
 I was inspired to make this mod in order to play through the Yellow Version according to my own Kanto headcanon, where Green (Leaf in Gen 3) is the heroine of the Kanto story alongside Red. 
 Her rival is Yellow, who is the paralell antagonist to Blue. 
 
