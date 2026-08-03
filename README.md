@@ -12,12 +12,13 @@ If the player chooses Green, Yellow, or both, the overworld and battle sprites w
 <img width="295" height="253" alt="yellow_intro" src="https://github.com/user-attachments/assets/1e2905f5-3dfd-44cc-8a45-30f901947713" />
 
 <br> I was inspired to make this mod in order to play through the Yellow Version according to my own Kanto headcanon, where Green (Leaf in Gen 3) is the heroine of the Kanto story alongside Red. 
-Her rival is Yellow, who is the paralell antagonist to Blue. 
+<br>Her rival is Yellow, who is the paralell antagonist to Blue. 
 
 This also recontextualizes the original Japanese Gen 1 quadrufecta of Red, Green, Blue, and Yellow back into US canon the best way that I know how,
 while giving players the option for a female protagonist, rival, or both.
 
-The sprites for Green are fan-made sprites that I found for Green in the Gen 1 style, while the sprites for Yellow are restored beta sprites for Kris. I thought that they looked pretty good for a female rival that compliments Blue.
+The sprites for Green are fan-made sprites that I found for Green in the Gen 1 style, while the sprites for Yellow are restored beta sprites for Kris.
+<br>I thought that they looked pretty good for a female rival that compliments Blue.
 
 <br>
 
