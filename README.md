@@ -19,7 +19,7 @@ while giving players the option for a female protagonist, rival, or both.
 The sprites for Green are fan-made sprites that I found for Green in the Gen 1 style, while the sprites for Yellow are restored beta sprites for Kris. I thought that they looked pretty good for a female rival that compliments Blue.
 
 
-Credits:
+### Credits:
 <br>Green (Protagonist) Sprite created by Madame Frog/Hatun, preserved by Ghost-MissingNo
 https://www.deviantart.com/ghost-missingno/art/Blue-Sprites-for-R-G-B-Y-339796017
 
