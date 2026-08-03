@@ -1,0 +1,11 @@
+{
+  "id": "choose_your_hero",
+  "name": "Choose Your Hero",
+  "version": "1.0-beta",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GRAPHICS",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "description": "Adds the option to choose between Red (default) and Green/Leaf (female) as your protagonist, and Blue (default) and Yellow (female) as your rival. Compatible with Voxel Rendering mod."
+}
