@@ -32,5 +32,7 @@ https://www.deviantart.com/ghost-missingno/art/Beta-Crystal-Sprites-for-G-S-C-56
 Player Battle Sprite, Overworld Sprite, and Rival Overworld Sprite replacement code inspired by Leaf Avatar Mod by MrKrisSatan
 <br>https://github.com/MrKrisSatan/Leaf
 
+Text Override code supplied by Crystal Player Mod by dburton95
+<br>https://github.com/dburton95/crystal
 Rival Battle Sprite Replacement Code inspired by Who's That Trainer Mod by MyFriendPKMN
 <br>https://github.com/MyFriendPKMN/whos-that-trainer/tree/main
