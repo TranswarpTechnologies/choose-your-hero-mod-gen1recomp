@@ -34,5 +34,6 @@ Player Battle Sprite, Overworld Sprite, and Rival Overworld Sprite replacement c
 
 Text Override code supplied by Crystal Player Mod by dburton95
 <br>https://github.com/dburton95/crystal
+
 Rival Battle Sprite Replacement Code inspired by Who's That Trainer Mod by MyFriendPKMN
 <br>https://github.com/MyFriendPKMN/whos-that-trainer/tree/main
